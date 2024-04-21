@@ -8,3 +8,6 @@
  plt.hist(uber_df.Hour, width=0.6, bins=24, color="red"): Creates a histogram showing the density of trips per hour of the day.
  plt.scatter(x, y, color="purple"): Creates a scatter plot showing the density of trips per location using longitude ("Lon") on the x-axis and latitude ("Lat") on the y-axis.
  
+![Screenshot 2024-04-21 154018](https://github.com/git-prashanthkumar/prashanthkumar2.devtern/assets/162727418/a97a3a52-d291-436a-968d-0dc8df75ef5a)
+![Screenshot 2024-04-21 154030](https://github.com/git-prashanthkumar/prashanthkumar2.devtern/assets/162727418/f5d07858-40d9-4b97-bee5-c3d7ecfe8abe)
+![Screenshot 2024-04-21 154050](https://github.com/git-prashanthkumar/prashanthkumar2.devtern/assets/162727418/c8898916-553c-44a2-90f4-94272f068900)
